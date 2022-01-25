@@ -1926,6 +1926,22 @@ input[type="reset"]:disabled,
   padding-right: var(--global--spacing-unit);
 }
 
+.blue-bg {
+  background-color: var(--global--color-blue);
+}
+
+.dark-blue-bg {
+  background-color: var(--global--color-dark-blue);
+}
+
+.orange-bg {
+  background-color: var(--global--color-orange);
+}
+
+.white-bg {
+  background-color: var(--global--color-white);
+}
+
 .wp-block-cover,
 .wp-block-cover-image {
   background-color: var(--cover--color-background);
