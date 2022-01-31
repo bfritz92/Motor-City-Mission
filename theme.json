@@ -171,7 +171,7 @@
 			"dropCap": false,
 			"fontFamilies": [
 				{
-					"fontFamily": "\"Barnaby\", sans-serif",
+					"fontFamily": "\"burnaby-stencil\", sans-serif",
 					"name": "System Font",
 					"slug": "system-font"
 				},
