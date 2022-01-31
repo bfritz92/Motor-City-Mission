@@ -171,7 +171,7 @@
 			"dropCap": false,
 			"fontFamilies": [
 				{
-					"fontFamily": "\"Barnaby\", serif",
+					"fontFamily": "\"Barnaby\", sans-serif",
 					"name": "System Font",
 					"slug": "system-font"
 				},
