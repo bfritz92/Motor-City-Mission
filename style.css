@@ -153,8 +153,16 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   padding-left: var(--wp--custom--spacing--outer);
 }
 
+/* Full height columns */
 .wp-block-columns .wp-block-column.full-height-column {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.wp-block-columns:not(.is-not-stacked-on-mobile)
+  > .wp-block-column:not(:first-child) {
+  margin-left: 0;
+}
+.wp-block-columns {
+  margin-top: 0 !important;
 }
