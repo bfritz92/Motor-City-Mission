@@ -152,3 +152,9 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   padding-right: var(--wp--custom--spacing--outer);
   padding-left: var(--wp--custom--spacing--outer);
 }
+
+.wp-block-columns .wp-block-column.full-height-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
