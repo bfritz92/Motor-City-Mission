@@ -172,14 +172,15 @@
 			"fontFamilies": [
 				{
 					"fontFamily": "\"burnaby-stencil\", sans-serif",
-					"name": "System Font",
-					"slug": "system-font"
+					"name": "Source Serif Pro",
+					"slug": "source-serif-pro"
+					
 				},
 				{
 					
 					"fontFamily": "-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,\"Helvetica Neue\",sans-serif",
-					"name": "Source Serif Pro",
-					"slug": "source-serif-pro"
+					"name": "System Font",
+					"slug": "system-font"
 				}
 			],
 			"fontSizes": [
