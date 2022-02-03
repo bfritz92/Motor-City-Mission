@@ -219,11 +219,9 @@
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--medium)"
 				},
-				"spacing": {
-					"margin": {
-						"top": "var(--wp--custom--spacing--small)",
-						"bottom": "var(--wp--custom--spacing--small)"
-					}
+				"margin": {
+					"top": "var(--wp--custom--spacing--small)",
+					"bottom": "var(--wp--custom--spacing--small)"
 				}
 			},
 			"core/post-title": {
