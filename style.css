@@ -197,4 +197,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
       -ms-flex-pack: center;
           justify-content: center;
 }
+
+.wp-block-button {
+  margin-bottom: 2rem;
+}
 /*# sourceMappingURL=style.css.map */
