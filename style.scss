@@ -193,6 +193,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-button {
   margin-bottom: 2rem;
 }
-.wp-block-embed {
-  margin: 0;
+//flagging for future improvement
+.wp-block-embed,
+.wp-block-cover {
+  margin: 0 !important;
 }

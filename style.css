@@ -202,7 +202,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   margin-bottom: 2rem;
 }
 
-.wp-block-embed {
-  margin: 0;
+.wp-block-embed,
+.wp-block-cover {
+  margin: 0 !important;
 }
 /*# sourceMappingURL=style.css.map */
