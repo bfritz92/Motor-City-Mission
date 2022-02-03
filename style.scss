@@ -158,6 +158,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 .wp-block-columns:not(.is-not-stacked-on-mobile)
   > .wp-block-column:not(:first-child) {
@@ -183,7 +184,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   }
 }
 
-.wp-block-column.flex-height {
+.flex-height {
   flex-direction: column;
   justify-content: center;
 }
