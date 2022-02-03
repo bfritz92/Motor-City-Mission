@@ -177,9 +177,10 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   h5,
   h6,
   p,
-  strong {
+  strong,
+  ul {
     max-width: 500px;
-    margin: auto;
+    margin: 0 auto;
     padding: inherit 2rem 1rem 2rem;
   }
 }
