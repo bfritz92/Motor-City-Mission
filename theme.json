@@ -220,7 +220,7 @@
 					"fontSize": "var(--wp--preset--font-size--medium)"
 				},
 				"spacing": {
-					"padding": {
+					"margin": {
 						"top": "var(--wp--custom--spacing--small)",
 						"bottom": "var(--wp--custom--spacing--small)"
 					}
