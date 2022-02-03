@@ -183,3 +183,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
     padding-right: 2rem;
   }
 }
+
+.wp-block-column.full-height-column {
+  flex-direction: column;
+}
