@@ -170,11 +170,6 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 }
 
 /* limit column text widths, add padding */
-.wp-block-columns .wp-block-column {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
 .wp-block-columns .wp-block-column h1,
 .wp-block-columns .wp-block-column h2,
 .wp-block-columns .wp-block-column h3,
