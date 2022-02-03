@@ -218,6 +218,12 @@
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--medium)"
+				},
+				"spacing": {
+					"padding": {
+						"top": "var(--wp--custom--spacing--small)",
+						"bottom": "var(--wp--custom--spacing--small)"
+					}
 				}
 			},
 			"core/post-title": {
