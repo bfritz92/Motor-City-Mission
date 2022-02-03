@@ -179,11 +179,11 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   strong {
     max-width: 500px;
     margin: auto;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding: inherit 2rem 1rem 2rem;
   }
 }
 
-.wp-block-column.full-height-column {
+.wp-block-column.flex-height {
   flex-direction: column;
+  justify-content: center;
 }
