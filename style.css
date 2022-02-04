@@ -231,7 +231,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   font-family: var(--wp--preset--font-family--system-font);
 }
 
-.footer {
+footer.wp-block-template-part {
   margin-top: 0 !important;
 }
 /*# sourceMappingURL=style.css.map */
