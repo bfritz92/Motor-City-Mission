@@ -210,4 +210,12 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .entry-content {
   margin-top: 0 !important;
 }
+
+.front-page--gallery .wp-block-column .wp-block-columns .wp-block-column .wp-block-cover {
+  height: 100%;
+}
+
+.front-page--gallery .wp-block-column .wp-block-columns .wp-block-column .wp-block-image {
+  margin-bottom: 0 !important;
+}
 /*# sourceMappingURL=style.css.map */
