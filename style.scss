@@ -206,6 +206,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .front-page {
   &--gallery {
     .wp-block-column .wp-block-columns .wp-block-column {
+      margin-left: 0 !important;
       .wp-block-cover {
         height: 100%;
       }
