@@ -111,7 +111,7 @@
 			"palette": [
 				{
 					"slug": "foreground",
-					"color": "#000000",
+					"color": "#54565B",
 					"name": "Foreground"
 				},
 				{
@@ -218,8 +218,8 @@
 					"radius": "0"
 				},
 				"color": {
-					"background": "var(--wp--preset--color--background)",
-					"text": "var(--wp--preset--color--primary)"
+					"background": "var(--wp--preset--color--primary)",
+					"text": "var(--wp--preset--color--background)"
 				},
 				"typography": {
 					"fontSize": "var(--wp--preset--font-size--medium)",
