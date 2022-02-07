@@ -185,7 +185,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-columns .wp-block-column ul {
   max-width: 500px;
   margin: 0 auto;
-  padding: i0 2rem 1rem 2rem;
+  padding: 0 2rem 1rem 2rem;
 }
 
 .flex-height {
