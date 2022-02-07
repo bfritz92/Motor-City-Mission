@@ -255,7 +255,7 @@ footer .wp-block-group {
   padding-bottom: 0;
 }
 
-@media screen and (max-width: 584px) {
+@media screen and (max-width: 585px) {
   .wp-block-columns.flip {
     -webkit-box-orient: vertical;
     -webkit-box-direction: reverse;
