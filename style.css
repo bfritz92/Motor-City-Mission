@@ -245,6 +245,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 
 .ib-countdown-unit-number {
   font-family: var(--wp--preset--font-family--system-font);
+  font-size: 47px !important;
 }
 
 footer.wp-block-template-part {
