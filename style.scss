@@ -190,16 +190,16 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   justify-content: center;
 }
 .mb0 {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 .pb0 {
-  padding-bottom: 0;
+  padding-bottom: 0 !important;
 }
 .mt0 {
-  margin-top: 0;
+  margin-top: 0 !important;
 }
 .pt0 {
-  padding-top: 0;
+  padding-top: 0 !important;
 }
 .wp-block-button {
   margin-bottom: 2rem;
@@ -238,5 +238,5 @@ footer.wp-block-template-part {
   margin-top: 0 !important;
 }
 footer .wp-block-group {
-  margin-bottom: 0;
+  padding-bottom: 0;
 }
