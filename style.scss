@@ -242,8 +242,11 @@ footer .wp-block-group {
   padding-bottom: 0;
 }
 
-@media screen and (max-width: 585px) {
+@media screen and (max-width: 590px) {
   .wp-block-columns.flip {
     flex-direction: column-reverse;
   }
+}
+.wp-block-cover {
+  height: 100%;
 }
