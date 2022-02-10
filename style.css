@@ -270,7 +270,7 @@ footer .wp-block-group {
 }
 
 .wp-block-post-featured-image {
-  margin-bottom: 2rem !important;
+  margin-bottom: 0 !important;
 }
 
 .wp-block-post-featured-image img.attachment-post-thumbnail {
