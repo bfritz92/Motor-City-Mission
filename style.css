@@ -268,4 +268,16 @@ footer .wp-block-group {
 .wp-block-cover {
   height: 100%;
 }
+
+.wp-block-post-featured-image {
+  margin-bottom: 2rem;
+}
+
+.wp-block-post-featured-image img.attachment-post-thumbnail {
+  max-height: 40vh;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center 80%;
+     object-position: center 80%;
+}
 /*# sourceMappingURL=style.css.map */
