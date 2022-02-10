@@ -283,6 +283,6 @@ footer .wp-block-group {
 
 .wp-block-post-title {
   margin-bottom: 2rem !important;
-  margin-top: -5rem;
+  margin-top: -5rem !important;
 }
 /*# sourceMappingURL=style.css.map */
