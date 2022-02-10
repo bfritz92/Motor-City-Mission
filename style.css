@@ -270,7 +270,7 @@ footer .wp-block-group {
 }
 
 .wp-block-post-featured-image {
-  margin-bottom: 2rem;
+  margin-bottom: 2rem !important;
 }
 
 .wp-block-post-featured-image img.attachment-post-thumbnail {
@@ -279,5 +279,9 @@ footer .wp-block-group {
      object-fit: cover;
   -o-object-position: center 80%;
      object-position: center 80%;
+}
+
+.wp-block-post-title {
+  margin-bottom: 2rem !important;
 }
 /*# sourceMappingURL=style.css.map */
