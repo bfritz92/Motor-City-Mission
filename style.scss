@@ -263,3 +263,12 @@ footer .wp-block-group {
   margin-bottom: 2rem !important;
   margin-top: -5rem !important;
 }
+
+//sticky pseudo nav
+.pseudo-nav {
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
