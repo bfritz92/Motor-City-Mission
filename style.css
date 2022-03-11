@@ -286,12 +286,14 @@ footer .wp-block-group {
   margin-top: -5rem !important;
 }
 
-.pseudo-nav {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
+@media only screen and (min-width: 767px) {
+  .pseudo-nav {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
 }
 /*# sourceMappingURL=style.css.map */

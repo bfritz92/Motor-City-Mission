@@ -265,10 +265,12 @@ footer .wp-block-group {
 }
 
 //sticky pseudo nav
-.pseudo-nav {
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  z-index: 1000;
+@media only screen and (min-width: 767px) {
+  .pseudo-nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
 }
