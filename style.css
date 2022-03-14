@@ -243,6 +243,10 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
   margin-bottom: 0 !important;
 }
 
+.front-page--detail {
+  margin-bottom: 0;
+}
+
 .wp-block-image {
   margin-bottom: 0 !important;
 }
