@@ -231,7 +231,9 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
     }
   }
 }
-
+.wp-block-image {
+  margin-bottom: 0 !important;
+}
 .ib-countdown-unit-number {
   font-family: var(--wp--preset--font-family--system-font);
   font-size: 47px !important;
