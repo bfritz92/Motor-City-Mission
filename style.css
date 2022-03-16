@@ -94,6 +94,16 @@ a:active {
   color: var(--wp--preset--color--foreground) !important;
 }
 
+.wp-block-button.is-style-fill:hover {
+  background-color: var(--wp--preset--color--background);
+  color: var(--wp--preset--color--foreground);
+}
+
+.wp-block-button.is-style-fill:hover a.wp-block-button__link {
+  border: 2px solid var(--wp--preset--color--foreground);
+  color: var(--wp--preset--color--background) !important;
+}
+
 /*
  * Alignment styles.
  * These rules are temporary, and should not be relied on or

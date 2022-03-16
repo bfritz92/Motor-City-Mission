@@ -87,12 +87,22 @@ a:active {
   background-color: var(--wp--preset--color--foreground);
 }
 
-.wp-block-button.is-style-outline:hover {
-  background-color: var(--wp--preset--color--background);
-  color: var(--wp--preset--color--foreground);
-  a.wp-block-button__link {
-    border: 2px solid var(--wp--preset--color--background);
-    color: var(--wp--preset--color--foreground) !important;
+.wp-block-button {
+  &.is-style-outline:hover {
+    background-color: var(--wp--preset--color--background);
+    color: var(--wp--preset--color--foreground);
+    a.wp-block-button__link {
+      border: 2px solid var(--wp--preset--color--background);
+      color: var(--wp--preset--color--foreground) !important;
+    }
+  }
+  &.is-style-fill:hover {
+    background-color: var(--wp--preset--color--background);
+    color: var(--wp--preset--color--foreground);
+    a.wp-block-button__link {
+      border: 2px solid var(--wp--preset--color--foreground);
+      color: var(--wp--preset--color--background) !important;
+    }
   }
 }
 
