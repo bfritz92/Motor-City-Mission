@@ -304,4 +304,8 @@ footer .wp-block-group {
     z-index: 1000;
   }
 }
+
+.mt0 {
+  margin-top: 0 !important;
+}
 /*# sourceMappingURL=style.css.map */
