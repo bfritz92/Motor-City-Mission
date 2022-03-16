@@ -296,7 +296,7 @@
 			},
 			"h3": {
 				"typography": {
-					"fontFamily": "var(--wp--preset--font-family--system-font)",
+					"fontFamily": "var(--wp--preset--font-family--source-serif-pro)",
 					"fontWeight": "300",
 					"lineHeight": "var(--wp--custom--typography--line-height--tiny)",
 					"fontSize": "var(--wp--custom--typography--font-size--huge)"

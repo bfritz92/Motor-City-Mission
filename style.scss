@@ -230,11 +230,16 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
       }
     }
   }
+  &--detail {
+    margin-bottom: 0;
+  }
 }
-
+.wp-block-image {
+  margin-bottom: 0 !important;
+}
 .ib-countdown-unit-number {
   font-family: var(--wp--preset--font-family--system-font);
-  //font-size: 47px !important;
+  font-size: 47px !important;
 }
 footer.wp-block-template-part {
   margin-top: 0 !important;
@@ -250,4 +255,27 @@ footer .wp-block-group {
 }
 .wp-block-cover {
   height: 100%;
+}
+.wp-block-post-featured-image {
+  margin-bottom: 0 !important;
+  img.attachment-post-thumbnail {
+    max-height: 40vh;
+    object-fit: cover;
+    object-position: center 80%;
+  }
+}
+.wp-block-post-title {
+  margin-bottom: 2rem !important;
+  margin-top: -5rem !important;
+}
+
+//sticky pseudo nav
+@media only screen and (min-width: 767px) {
+  .pseudo-nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+  }
 }
