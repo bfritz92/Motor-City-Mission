@@ -95,7 +95,7 @@ a:active {
 }
 
 .wp-block-button.is-style-fill:hover {
-  background-color: var(--wp--preset--color--background);
+  background-color: var(--wp--preset--color--background) !important;
   color: var(--wp--preset--color--foreground);
 }
 
