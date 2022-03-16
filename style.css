@@ -91,6 +91,7 @@ a:active {
 
 .wp-block-button.is-style-outline:hover a.wp-block-button__link {
   border: 2px solid var(--wp--preset--color--background);
+  color: var(--wp--preset--color--foreground);
 }
 
 /*
